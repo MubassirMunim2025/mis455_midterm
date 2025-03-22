@@ -1,6 +1,6 @@
 # mis455_midterm
 
-#LAKE COFFEE SHOP WEBSITE
+# LAKE COFFEE SHOP WEBSITE
 
 A responsive, multi-page website for a fictional premium coffee shop called "Lake Coffee". This project demonstrates a clean, modern web design with interactive elements using HTML, CSS, and JavaScript.
 
