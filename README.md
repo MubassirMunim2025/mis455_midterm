@@ -1,10 +1,8 @@
 # mis455_midterm
 
-==============================================
 LAKE COFFEE SHOP WEBSITE
-==============================================
 
-A responsive, multi-page website for a fictional premium coffee shop called "Brew Haven". This project demonstrates a clean, modern web design with interactive elements using HTML, CSS, and JavaScript.
+A responsive, multi-page website for a fictional premium coffee shop called "Lake Coffee". This project demonstrates a clean, modern web design with interactive elements using HTML, CSS, and JavaScript.
 
 
 -----------------
@@ -61,16 +59,3 @@ The website consists of three main pages:
    - Contact form with validation
    - Business information
    - FAQ section
-
------------------
-PROJECT STRUCTURE
------------------
-
-brew-haven-website/
-│
-├── index.html          # Home page
-├── products.html       # Products catalog page
-├── contact.html        # Contact and information page
-├── styles.css          # Main stylesheet
-├── script.js           # JavaScript functionality
-└── README.md           # Project documentation
