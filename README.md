@@ -14,8 +14,7 @@ FEATURES 🐾
 * Responsive Design: Fully responsive layout that works on mobile, tablet, and desktop devices
 * Multi-page Structure: Three distinct pages (Home, Products, Contact)
 * Interactive Elements:
-  - Product filtering system
-  - Contact form with validation
+  - Contact form
   - Interactive buttons with JavaScript functionality
   - Navigation with hover effects
 * Modern UI Components:
