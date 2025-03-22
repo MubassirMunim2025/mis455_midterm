@@ -4,6 +4,8 @@
 
 A responsive, multi-page website for a fictional premium coffee shop called "Lake Coffee". This project demonstrates a clean, modern web design with interactive elements using HTML, CSS, and JavaScript.
 
+# Live Preview - 
+https://lakecoffee.netlify.app/
 
 -----------------
 FEATURES 🐾
