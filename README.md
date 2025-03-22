@@ -34,10 +34,8 @@ TECHNOLOGIES USED ⚙
   - Media Queries
   - Transitions and Animations
 * JavaScript: 
-  - DOM Manipulation
   - Event Handling
   - Form Validation
-  - Dynamic Content Filtering
 
 
 -----------------
