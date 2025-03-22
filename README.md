@@ -40,7 +40,7 @@ TECHNOLOGIES USED ⚙
 
 
 -----------------
-USAGE
+USAGE 👤
 -----------------
 
 The website consists of three main pages:
