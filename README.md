@@ -1,12 +1,12 @@
 # mis455_midterm
 
-# LAKE COFFEE SHOP WEBSITE
+# LAKE COFFEE SHOP WEBSITE ☕
 
 A responsive, multi-page website for a fictional premium coffee shop called "Lake Coffee". This project demonstrates a clean, modern web design with interactive elements using HTML, CSS, and JavaScript.
 
 
 -----------------
-FEATURES
+FEATURES 🐾
 -----------------
 
 * Responsive Design: Fully responsive layout that works on mobile, tablet, and desktop devices
@@ -23,7 +23,7 @@ FEATURES
   - Professional color scheme
 
 -----------------
-TECHNOLOGIES USED
+TECHNOLOGIES USED ⚙
 -----------------
 
 * HTML5: Semantic markup structure
@@ -52,7 +52,6 @@ The website consists of three main pages:
 
 2. Products Page (products.html):
    - Filterable product catalog
-   - Product categories (Coffee Beans, Equipment, Accessories)
    - Product details and pricing
 
 3. Contact Page (contact.html):
